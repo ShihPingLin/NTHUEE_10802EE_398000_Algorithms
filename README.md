@@ -45,4 +45,4 @@ storage.
   Given two similar text files, t1a.txt and t1b.txt, one can use three editing commands: change line, insert line and delete line to transform one to another. In this homework, I will write a C program that takes two files as its input and output a series of commands to perform such transformation. Besides, the number of transformation commands should be as small as possible.
 
 - ./hw12\
-  n this homework, I will write a C program to solve the Travelling Salesperson Problem (TSP) via Branch and Bound.
+  In this homework, I will write a C program to solve the Travelling Salesperson Problem (TSP) via Branch and Bound.
