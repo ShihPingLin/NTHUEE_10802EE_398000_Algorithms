@@ -6,4 +6,4 @@ This responsitory contains all homework of NTHUEE Algorithms course. The purpose
 
 ### Folders
 - ./hw01\
-  In this homework, I will implement four sorting algorithms, analyze and compare their performance. The four sorting algorithms are selection sort, insertion sort, bubble sort, and shaker sort. 
+  In this homework, I will implement four sorting algorithms, analyze and compare their performance. The four sorting algorithms are selection sort, insertion sort, bubble sort,    and shaker sort. 
