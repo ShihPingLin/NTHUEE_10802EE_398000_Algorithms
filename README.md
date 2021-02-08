@@ -22,7 +22,7 @@ This responsitory contains all homework of NTHUEE Algorithms course. The purpose
 maximum earning made per share using two kinds of maximum subarray algorithms, BruteForce Approach and Divide and Conquer Approach.
 
 - ./hw06\
-   We have already solved the single-buy-single-sell stock trading problem in Homework 5. However, Brute-Force Approach in Homework 5 is inefficiency, which possesses a time complexity of O(n3). Thus, this homework is intended to fix the problem.
+   We have already solved the single-buy-single-sell stock trading problem in Homework 5. However, Brute-Force Approach in Homework 5 is inefficiency, which possesses a time complexity of O(n^3). Thus, this homework is intended to fix the problem.
 
 - ./hw07\
   In this report, I will design an algorithm to divide a group of N people into friend subgroups.
@@ -45,4 +45,4 @@ storage.
   Given two similar text files, t1a.txt and t1b.txt, one can use three editing commands: change line, insert line and delete line to transform one to another. In this homework, I will write a C program that takes two files as its input and output a series of commands to perform such transformation. Besides, the number of transformation commands should be as small as possible.
 
 - ./hw12\
-  In this homework, I will write a C program to solve the Travelling Salesperson Problem (TSP) via Branch and Bound.
+  In this homework, I will write a C program to solve the Travelling Salesperson Problem (TSP) via Branch and Bound method.
